@@ -19,12 +19,12 @@
 
 ## Enunciado 
 
-<img src="https://github.com/Leothurm/Stream-in-JAVA/blob/main/img/enunciado1.PNG">
+<img src="https://github.com/Leothurm/Stream-2-in-JAVA/blob/main/img/Enunciado.PNG">
 
 
 ## Input/Output
 
-<img src="https://github.com/Leothurm/Stream-in-JAVA/blob/main/img/enunciado2.PNG">
+<img src="https://github.com/Leothurm/Stream-2-in-JAVA/blob/main/img/Enunciado2.PNG.PNG">
 
 </div>
 
